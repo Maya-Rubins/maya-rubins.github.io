@@ -18,6 +18,9 @@ Here is to meeting you soon!
 -Maya Rubins
 
 ![amsterdam](amsterdam.jpg)
+
 ![Girl sitting on bench](bench.jpg)
+
 ![Girl in Miami](IMG_3653.jpg)
+
 ![Graduation](graduation.jpg)
