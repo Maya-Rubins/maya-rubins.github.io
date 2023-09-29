@@ -20,4 +20,4 @@ Here is to meeting you soon!
 ![amsterdam](amsterdam.jpg)
 ![Girl sitting on bench](bench.jpg)
 ![Girl in Miami](IMG_3653.jpg)
-![Graduation](Maya's Graduation.jpg)
+![Graduation](graduation.jpg)
