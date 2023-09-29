@@ -21,9 +21,7 @@ author: Maya Rubins
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "https://docs.google.com/document/d/1es9tH91PJoHuyaEqZ1vpycYPEDYMaDJQ8rW7_ODDg_M/edit"
   Home: "https://maya-rubins.github.io"
 
 ################
