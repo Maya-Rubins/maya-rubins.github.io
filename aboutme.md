@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Hey there 👋
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Maya
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have always been impressed by how much of an impact thoughtful design has on the world around us. Whether it comes from simplifying an interaction or by listening to user needs. I love creating visually  appealing and functional products that make people happy.
 
-What else do you need?
+Outside of designing, I like to spend time with my family and friends, listening to music, drinking coffee, cooking, traveling, running, playing or watching soccer, and constantly exploring the world around me. :)
+
+Here is to meeting you soon!
+
+- Maya Rubins
 
 ### My story
 
