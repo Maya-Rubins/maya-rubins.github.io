@@ -3,8 +3,9 @@ layout: page
 title: About Me
 subtitle: Hey there 👋
 ---
+Hey there, 👋
 
-I'm Maya
+I'm Maya,
 
 I have always been impressed by how much of an impact thoughtful design has on the world around us. Whether it comes from simplifying an interaction or by listening to user needs. I love creating visually  appealing and functional products that make people happy.
 
