@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-!{amsterdam}(amsterdam.jpg)
+![amsterdam](amsterdam.jpg)
 Hey there, 👋
 
 I'm Maya,
