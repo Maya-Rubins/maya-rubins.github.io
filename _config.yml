@@ -127,9 +127,9 @@ navbar-var-length: false
 
 navbar-col: "#2f3333"
 navbar-text-col: "ghostwhite"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+navbar-border-col: "#2f3333"
+page-col: "#2f3333"
+text-col: "ghostwhite"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
