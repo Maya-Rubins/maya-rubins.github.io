@@ -13,7 +13,7 @@ Outside of designing, I like to spend time with my family and friends, listening
 
 Here is to meeting you soon!
 
-- Maya Rubins
+-Maya Rubins
 
 ### My story
 
