@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-subtitle: Hey there 👋
 ---
 Hey there, 👋
 
